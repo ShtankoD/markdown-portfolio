@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+
+For more :information_source: :fast_forward: here is my [GitHub account](https://github.com/ShtankoDaria) :blush:
